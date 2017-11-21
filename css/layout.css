@@ -29,6 +29,8 @@ section {
 .col-1{
   float: left;
   width: 31%;
+  margin-left: 2%;
+  margin-right: 2%;
 
 }
 .col-2{
@@ -37,11 +39,6 @@ section {
 
 }
 .col-3{
-
-}
-[class*="col="]{
-  margin-left: 2%;
-  margin-right: 2%;
 
 }
 
