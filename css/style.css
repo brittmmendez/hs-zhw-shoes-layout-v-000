@@ -6,6 +6,7 @@
 img, video, audio, iframe, table, form {
 	width:100%; /* IE */
 	max-width: 100%; /* FF, Safari, Chrome */
+	min-width: 753
 }
 
 /* prevent the verify image on contact page from stretching */
