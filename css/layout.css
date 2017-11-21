@@ -28,9 +28,9 @@ section {
 /* Posititoning Classes */
 .col-1{
   float: left;
-  width: 31%;
+  width: 32%;
   margin-left: 2%;
-  
+
 
 }
 .col-2{
@@ -45,5 +45,3 @@ section {
 .first {
   margin-left: 0%;
 }
-
-
