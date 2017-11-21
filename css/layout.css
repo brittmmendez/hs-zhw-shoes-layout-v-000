@@ -41,10 +41,10 @@ section {
 
 }
 
-.first {
-  margin-left: 0%;
+[class*="col-1"]{
+  margin-left: 2%;
 }
 
-[class*="col-"]{
-  margin-left: 2%;
+.first {
+  margin-left: 0%;
 }
