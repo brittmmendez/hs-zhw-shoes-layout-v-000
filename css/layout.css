@@ -34,7 +34,7 @@
 }
 
 .col-3 {
-  
+
 }
 
 [class*="col="]{
@@ -43,4 +43,3 @@
 
 .first {
   margin-left: 0%;
-
