@@ -30,9 +30,6 @@ section {
   float: left;
   width: 31%;}
 
-  .col-1r{
-    float: right;;
-    width: 31%;
 }
 .col-2{
   float: left;
@@ -43,7 +40,7 @@ section {
 
 }
 [class*="col="]{
-  margin: 2%;
+  margin-left: 2%;
 }
 
 .first {
