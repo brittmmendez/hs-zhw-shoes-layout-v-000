@@ -26,26 +26,23 @@
 .col-1 {
   float: left;
   width: 31%;
-  margin-left:3%;
 }
 
 .col-2 {
   float: left;
   width: 63%;
-  margin-left:3%;
 }
 
 .col-1r {
   float: right;
   width: 31%;
-  margin-left:3%;
 }
 
 .col-3 {
 
 }
 
-.colmarg:
+[class*="col="]{
   margin-bottom: 3%;
 }
 
