@@ -5,7 +5,7 @@
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form {
 	width:100%; /* IE */
-	
+	max-width: 100%; /* FF, Safari, Chrome */
 
 }
 
@@ -27,7 +27,7 @@ h2, h3 {
 }
 
 ul, ol {
-	margin-bottom: 10px;
+	margin-bottom: 8px;
 }
 
 li {
